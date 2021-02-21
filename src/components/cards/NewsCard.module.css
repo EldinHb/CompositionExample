@@ -1,0 +1,9 @@
+.newsCard:first {
+    margin-top: 0px;
+}
+
+.newsCard {
+    background-color: lightgray;
+    margin-bottom: 20px;
+}
+
